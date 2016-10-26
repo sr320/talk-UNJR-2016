@@ -3,14 +3,39 @@
 
 Abstract
 
-Does DNA methylation facilitate genome diversity and phenotypic plasticity in marine invertebrates?
 
-There is an amazing amount of diversity incorporated into the genome of oysters and other marine invertebrates including vastly expanded gene families, high mutation rates, and numerous mobile elements. These are certainly a benefit to broadcast spawners living in fluctuating environments.  Recent work examining DNA methylation is revealing new insight into similar diversity at the epigenetic level. The function of DNA methylation in species such as bivalves where the limited amount of DNA methylation is predominantly found in gene bodies is not completely understood.  An emerging possible explanation is that the role of gene body DNA methylation is dependent on gene function, a potential phenomenon that has arisen from selective pressure on lineage-specific life history traits. Specifically, in genes contributing to phenotypes that benefit from increased plasticity, the absence of DNA methylation could contribute to stochastic transcriptional opportunities and increased transposable element activity. I will present data from our lab supporting these hypotheses, new data demonstrating evidence of inheritance of DNA methylation patterns, and together how this could change how we consider physiology, ecology, and evolution.
-kadfjao*8YYY
+Towards a functional understanding of DNA methylation in shellfish and implications for aquaculture.
+
+Mackenzie Gavery, Claire Olson, Steven Roberts
+
+School of Aquatic and Fishery Sciences, University of Washington, Seattle WA.
+
+email sr320@uw.edu
 
 
 
-xample Abstract
+There is an amazing amount of diversity incorporated into the genome of oysters and other marine invertebrates including vastly expanded gene families, high mutation rates, and numerous mobile elements. These are certainly a benefit to broadcast spawners living in fluctuating environments.  Recent work examining DNA methylation is revealing new insight into similar diversity at the epigenetic level. The function of DNA methylation in species such as bivalves where the limited amount of DNA methylation is predominantly found in gene bodies is not completely understood. One emerging possible explanation is that the role of gene body DNA methylation is dependent on gene function, a potential phenomenon that has arisen from selective pressure on lineage-specific life history traits. 
+With respect to commericially important traits, we know that in other taxa epigenetic marks are associated with phenotypes independent of genetic structure, the environment can influence DNA metylation, and epigenetic marks can be inherited. In shellfish we are still learning about role of epigenetic processes such as DNA methylation in controlling the phenome, however it appears that epigenetic processes should be considered in the efforts to advance aquaculture. 
+
+
+
+
+
+
+Annotated Bibliography
+
+[Aggregated view of all _C. gigas_ DNA methylation data](http://onsnetwork.org/halfshell/2015/06/22/first-steps-at-an-aggregated-view-of-all-dna-methylation-data/)
+
+
+Claire E. Olson, Steven B. Roberts. Indication of family-specific DNA methylation patterns in developing oysters **bioRxiv** doi: <http://dx.doi.org/10.1101/012831> <span data-badge-popover="right" data-badge-type="4" data-doi="10.1101/012831" data-hide-no-mentions="true" class="altmetric-embed"></span>
+
+
+Gavery MR and Roberts SB. (**2014**) [A context specific role for DNA methylation in bivalves](http://bfg.oxfordjournals.org/content/13/3/217) Briefings in Functional Genomics. doi:10.1093/bfgp/elt054 ([pdf](http://eagle.fish.washington.edu/cnidarian/Briefings%20in%20Functional%20Genomics-2014-Gavery-217-22.pdf))   <span data-badge-popover="right" data-badge-type="4" data-doi="10.1093/bfgp/elt054" data-hide-no-mentions="true" class="altmetric-embed"></span>
+
+
+
+
+Example Abstract
 
 An Outline of the Research Project, Development of Seed Production Technology in Japanese Spiny Lobster
 
