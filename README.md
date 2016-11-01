@@ -1,4 +1,3 @@
-# talk-UNJR-2016
 
 
 ### Towards a functional understanding of DNA methylation in shellfish and implications for aquaculture.  
